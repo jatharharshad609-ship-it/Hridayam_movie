@@ -26,7 +26,7 @@ Project
 ├── media/               # Multimedia Assets Directory
 │   ├── Image/           # Cast & Profile Pictures
 │   ├── Song/            # Album Audio Files (.mp3) & Cover Art
-│   └── Vedio/           # Promotional Videos & Trailers (.mp4)
+│   └── Video/           # Promotional Videos & Trailers (.mp4)
 ├── index.html            # Main Core Markup Architecture
 ├── style.css             # Stylesheets & Grid Control Systems
 └── j_script.js           
